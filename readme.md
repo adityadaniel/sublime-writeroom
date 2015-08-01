@@ -1,0 +1,1 @@
+This is Sublime Text 3 plugins which will open the current file to [WriteRoom](http://www.hogbaysoftware.com/products/writeroom) for writing pleasure. The code is originally developed by [jocelynmallon](https://github.com/jocelynmallon) and [icio](https://github.com/icio) from [sublime-text-marked](https://github.com/icio/sublime-text-marked) plugin. 
